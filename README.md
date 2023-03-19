@@ -20,6 +20,7 @@ The project contains the following files and directories:
 
 ## Usage
 <img width="443" alt="chatbot" src="https://user-images.githubusercontent.com/55883282/226205819-02d2635e-47a9-4a12-9f26-28ab3a859429.png">
+
 Follow these steps to use the chatbot:
 1. Clone this repository to your local system.
 2. Open a terminal or command prompt and navigate to the project directory.
