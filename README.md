@@ -14,8 +14,8 @@ To run this chatbot project, you need to have the following installed on your sy
 The project contains the following files and directories:
 * `train.py` - This file contains the code for training the chatbot model.
 * `chat.py` - This file contains the code for initializing the chatbot and responding to user inputs.
-* `intents.json` - This file contains the initial input dictionary for the chatbot.
-* `model.pth` - This file contains the trained Pytorch model.
+* `input.json` - This file contains the initial input dictionary for the chatbot.
+* `data.pth` - This file contains the trained Pytorch model.
 * `utils.py` - This file contains utility functions used by the chatbot.
 
 ## Usage
