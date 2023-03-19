@@ -1,0 +1,72 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "What's up",
+          "Hey",
+          "Knock knock",
+          "How is your day going?"
+        ],
+        "responses": [
+          "Nice to meet you! I'm Darwin. How can I help?",
+          "Hello, welcome!",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["See you", "Bye", "Later!", "Goodbye"],
+        "responses": [
+            "Thank you for visiting",
+            "See you later :)",
+            "Bye!"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "I appreciate your help", "Thanks a lot"],
+        "responses": ["No worries.", "No problem.", "My pleasure.", "Happy to help!"]
+      },
+      {
+        "tag": "movies",
+        "patterns": [
+          "What movies are available?",
+          "Any movies on screen now?",
+          "What can I watch today?"
+        ],
+        "responses": [
+          "Titanic is available in 1 hour.",
+          "You are right in time for Gladiator.",
+          "We have Finding Nemo and Tangled!"
+        ]
+      },
+      {
+        "tag": "payments",
+        "patterns": [
+          "I want to pay by credit",
+          "Debit please",
+          "Can I e-transfer?",
+          "Are you cash only?"
+        ],
+        "responses": [
+          "We accept VISA and Mastercard.",
+          "Sorry, we are cash-only. You can e-transfer, too."
+        ]
+      },
+      {
+        "tag": "joke",
+        "patterns": [
+          "Give me a joke!",
+          "Make me laugh!",
+          "Tell me a funny joke"
+        ],
+        "responses": [
+          "Would I rather be feared or loved? Um, easy. Both. I want people to be afraid of how much they love me.",
+          "I'm not supertituous, I am a little stitious",
+          "Well, well, how the turntables."
+        ]
+      }
+    ]
+  }
